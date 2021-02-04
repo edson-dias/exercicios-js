@@ -1,0 +1,4 @@
+// or: ||
+// and: &&
+// diferença: !=
+// Negação: !
