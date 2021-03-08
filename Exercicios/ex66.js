@@ -1,0 +1,1 @@
+const removeVogal = (frase) => frase.replace(/[aeiou]/ig, '')
